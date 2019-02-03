@@ -161,7 +161,7 @@ if __name__ == "__main__":
     if len(sys.argv) > 2:
         if sys.argv[2] == "g":
             print('Start in guest mode...')
-            gustMode = True
+            guestMode = True
     
     # disable image load and idk what disk-cache-size used for
     prefs = {'profile.managed_default_content_settings.images':2, 'disk-cache-size': 4096}
