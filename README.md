@@ -18,3 +18,9 @@ if you want to use or login to your typeracer account, copy `.env.example` to `.
 
 example:
 `python3 main.py 5`
+
+## Warning
+
+you may get something like this after a while 😅
+
+![banned](screenshot/banned.jpg)
